@@ -1,0 +1,10 @@
+
+.flag-icon-sy {
+  display: inline-block;
+  width: 20px;
+  height: 14px;
+  background-image: url('https://cdn.jsdelivr.net/gh/azizk9/fa-flag-new-syria/fa-flag-new-syria-fixed.png');
+  background-size: cover;
+  margin-right: 8px;
+  vertical-align: middle;
+}
