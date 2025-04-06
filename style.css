@@ -1,10 +1,10 @@
 .flag-icon-sy {
   display: inline-block;
-  width: 40px;              /* ← أكبر حجم */
-  height: 27px;             /* ← تناسب 4:3 */
+  width: 40px;
+  height: 30px;
   background-image: url('https://cdn.jsdelivr.net/gh/azizk9/fla-flag-new-syria/fa-flag-new-syria-fixed.png');
   background-size: cover;
   margin-right: 8px;
   vertical-align: middle;
-  border-radius: 2px;       /* اختياري: نفس نعومة باقي الأعلام */
+  border-radius: 2px;
 }
